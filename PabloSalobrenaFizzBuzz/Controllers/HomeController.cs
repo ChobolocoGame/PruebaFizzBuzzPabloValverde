@@ -1,5 +1,5 @@
 ﻿using System.Web.Mvc;
-using FizzBuzz.Core.Services;
+using FizzBuzz.Services;
 using FizzBuzz.ViewModel.Home;
 
 namespace FizzBuzz.Controllers
