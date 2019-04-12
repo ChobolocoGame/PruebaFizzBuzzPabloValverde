@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
-using FizzBuzz.Services;
-using WebApplication2.ViewModels.Home;
+using FizzBuzz.Core.Services;
+using FizzBuzz.ViewModel.Home;
 
 namespace FizzBuzz.Controllers
 {
@@ -22,7 +22,7 @@ namespace FizzBuzz.Controllers
         {
             return View();
         }
-        /*Enviamos el formulario vía POST*/
+        /*mandando el formulario por el método POST*/
         [HttpPost]
         public ActionResult Index(IndexViewModel viewModel)
         {

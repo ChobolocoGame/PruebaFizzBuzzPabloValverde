@@ -1,2 +1,0 @@
-# PruebaFizzBuzzPabloValverde
-Ejercicio FizzBuzz
