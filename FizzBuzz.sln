@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Core", "PabloSalobrenaFizzBuzz\FizzBuzz.Core.csproj", "{86103A22-01DA-4D04-AC1D-21F495A47673}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "PabloSalobrenaFizzBuzz\FizzBuzz.csproj", "{86103A22-01DA-4D04-AC1D-21F495A47673}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Services", "..\PruebaFizzBuzz\FizzBuzz.Core\FizzBuzz.Services.csproj", "{6A97BDF1-9B54-457E-8B05-96A6DEFB77FA}"
 EndProject

@@ -2,7 +2,7 @@
 using FizzBuzz.Services;
 using FizzBuzz.ViewModel.Home;
 
-namespace FizzBuzz.Controllers
+namespace FizzBuzz.Core.Controllers
 {
     public class HomeController : Controller
     {
